@@ -22,13 +22,7 @@ This Python script leverages the SpeechRecognition library to recognize speech i
 1. Run the script.
 2. Speak into the microphone.
 3. The recognized text and its Greek translation will be displayed in the console.
-4. [Optional] Uncomment the lines for text-to-speech functionality if desired.
 
-## Configuration
-
-- Adjust the microphone input settings for improved recognition (`recognizer.adjust_for_ambient_noise`).
-- Customize language settings based on your preferences.
-- Modify the code for different scenarios or applications.
 
 ## Contributions
 
