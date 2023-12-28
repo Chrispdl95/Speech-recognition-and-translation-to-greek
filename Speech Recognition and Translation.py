@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
 
 import ipywidgets as widgets
 from IPython.display import display
@@ -85,7 +80,6 @@ stop_button.on_click(stop_recording)
 display(record_button, stop_button, output)
 
 
-# In[ ]:
 
 
 
